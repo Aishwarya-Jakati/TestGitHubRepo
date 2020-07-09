@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 667D-FD33
+
+ Directory of C:\Users\10\Desktop\TestGitHub
+
+09-Jul-20  11:50 AM    <DIR>          .
+09-Jul-20  11:50 AM    <DIR>          ..
+09-Jul-20  11:50 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,102,149,632 bytes free
